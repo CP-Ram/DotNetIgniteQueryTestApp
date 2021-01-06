@@ -1,0 +1,6 @@
+C:\Users\bizruntime-86\source\repos\DotNetIgniteQueryTestApp\bin\Debug\netcoreapp3.1\DotNetIgniteQueryTestApp.exe
+C:\Users\bizruntime-86\source\repos\DotNetIgniteQueryTestApp\obj\Debug\netcoreapp3.1\DotNetIgniteQueryTestApp.csprojAssemblyReference.cache
+C:\Users\bizruntime-86\source\repos\DotNetIgniteQueryTestApp\obj\Debug\netcoreapp3.1\DotNetIgniteQueryTestApp.AssemblyInfoInputs.cache
+C:\Users\bizruntime-86\source\repos\DotNetIgniteQueryTestApp\obj\Debug\netcoreapp3.1\DotNetIgniteQueryTestApp.AssemblyInfo.cs
+C:\Users\bizruntime-86\source\repos\DotNetIgniteQueryTestApp\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\bizruntime-86\source\repos\DotNetIgniteQueryTestApp\obj\Debug\netcoreapp3.1\DotNetIgniteQueryTestApp.csproj.CopyComplete

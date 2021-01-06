@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29709.97
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DotNetIgniteQueryTestApp", "DotNetIgniteQueryTestApp.csproj", "{0F9EFEC9-84FE-4FEC-BAD3-9382F81842BE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0F9EFEC9-84FE-4FEC-BAD3-9382F81842BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0F9EFEC9-84FE-4FEC-BAD3-9382F81842BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0F9EFEC9-84FE-4FEC-BAD3-9382F81842BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0F9EFEC9-84FE-4FEC-BAD3-9382F81842BE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AD3089F4-3210-4D69-A875-2E39E489F580}
+	EndGlobalSection
+EndGlobal
